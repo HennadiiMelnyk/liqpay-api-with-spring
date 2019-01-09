@@ -1,5 +1,7 @@
 # LiqPay Java SDK
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4e798208c9a4364bb440c2d4b5cbecd)](https://app.codacy.com/app/HennadiiMelnyk/liqpay-api-with-spring?utm_source=github.com&utm_medium=referral&utm_content=HennadiiMelnyk/liqpay-api-with-spring&utm_campaign=Badge_Grade_Settings)
+
 Inspired from official Java SDK https://github.com/liqpay/sdk-java.
 The main benefit is the use of RestTemplate from Spring, which is threadsafe. 
 This point was the main motivation, when we developed this project.  
