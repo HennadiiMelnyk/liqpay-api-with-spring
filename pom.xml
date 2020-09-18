@@ -33,7 +33,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.2.9.RELEASE</spring.version>
+        <spring.version>4.3.29.RELEASE</spring.version>
         <json-simple.version>1.1.1</json-simple.version>
         <maven-compiler-plugin.version>3.2</maven-compiler-plugin.version>
         <jacoco-maven-plugin.version>0.7.7.201606060606</jacoco-maven-plugin.version>
